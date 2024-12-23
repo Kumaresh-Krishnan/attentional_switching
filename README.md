@@ -1,2 +1,2 @@
 # attentional_switching
-Code for the paper on attentional switching in larval zebrafish
+Code and data for the paper on attentional switching in larval zebrafish
